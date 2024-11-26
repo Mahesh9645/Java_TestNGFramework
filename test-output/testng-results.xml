@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T15:50:35 IST" name="FitPeoAutomationSuite" finished-at="2024-11-26T15:51:33 IST" duration-ms="57868">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T15:50:35 IST" name="FitPeoAutomationTests" finished-at="2024-11-26T15:51:33 IST" duration-ms="57868">
+      <class name="Launch.TestRunner">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:35 IST" name="setUp" finished-at="2024-11-26T15:50:40 IST" duration-ms="5304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyHomeTitle()[pri:1, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:40 IST" name="VerifyHomeTitle" finished-at="2024-11-26T15:50:40 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomeTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:40 IST" name="tearDown" finished-at="2024-11-26T15:50:42 IST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:42 IST" name="setUp" finished-at="2024-11-26T15:50:47 IST" duration-ms="4885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="NavigateAndVerifyRevenuePageTitle()[pri:2, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:47 IST" name="NavigateAndVerifyRevenuePageTitle" finished-at="2024-11-26T15:50:48 IST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateAndVerifyRevenuePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:48 IST" name="tearDown" finished-at="2024-11-26T15:50:50 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:50 IST" name="setUp" finished-at="2024-11-26T15:50:55 IST" duration-ms="4846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifySlider()[pri:3, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:55 IST" name="VerifySlider" finished-at="2024-11-26T15:50:57 IST" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySlider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:57 IST" name="tearDown" finished-at="2024-11-26T15:50:58 IST" duration-ms="1769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:50:58 IST" name="setUp" finished-at="2024-11-26T15:51:04 IST" duration-ms="5782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AdjustSlider()[pri:4, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:04 IST" name="AdjustSlider" finished-at="2024-11-26T15:51:06 IST" duration-ms="1379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdjustSlider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:06 IST" name="tearDown" finished-at="2024-11-26T15:51:07 IST" duration-ms="1773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:07 IST" name="setUp" finished-at="2024-11-26T15:51:12 IST" duration-ms="4978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickCPTcodes()[pri:5, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:12 IST" name="ClickCPTcodes" finished-at="2024-11-26T15:51:18 IST" duration-ms="6062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCPTcodes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:18 IST" name="tearDown" finished-at="2024-11-26T15:51:20 IST" duration-ms="1790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:20 IST" name="setUp" finished-at="2024-11-26T15:51:25 IST" duration-ms="4868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Validate_Recurring_Amount()[pri:6, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:25 IST" name="Validate_Recurring_Amount" finished-at="2024-11-26T15:51:31 IST" duration-ms="6080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Recurring_Amount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Launch.TestRunner@6fd83fc1]" started-at="2024-11-26T15:51:31 IST" name="tearDown" finished-at="2024-11-26T15:51:33 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Launch.TestRunner -->
+    </test> <!-- FitPeoAutomationTests -->
+  </suite> <!-- FitPeoAutomationSuite -->
+</testng-results>

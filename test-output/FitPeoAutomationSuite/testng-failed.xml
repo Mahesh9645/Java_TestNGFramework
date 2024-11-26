@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FitPeoAutomationSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FitPeoAutomationTests(failed)">
+    <classes>
+      <class name="Launch.TestRunner">
+        <methods>
+          <include name="setUp"/>
+          <include name="UpdatedSliderTextBox"/>
+          <include name="tearDown"/>
+          <include name="AdjustSlider"/>
+        </methods>
+      </class> <!-- Launch.TestRunner -->
+    </classes>
+  </test> <!-- FitPeoAutomationTests(failed) -->
+</suite> <!-- Failed suite [FitPeoAutomationSuite] -->
